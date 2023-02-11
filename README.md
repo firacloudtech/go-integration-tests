@@ -1,2 +1,1 @@
-# go-integration-tests
-# go-integration-tests
+This is a simple Golang project with integration tests
